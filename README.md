@@ -52,6 +52,17 @@ Opcao:
 
 ---
 
+## 📚 Aprendizado e Importância
+Este projeto é fundamental para entender como estruturas de dados podem ser implementadas em memória secundária (disco), garantindo a persistência dos dados entre execuções do programa.
+
+ - Gerenciamento de Memória Simulado: Demonstra técnicas de gerenciamento manual de espaço, como o uso de uma lista de nós livres (Free List), que são conceitos essenciais no desenvolvimento de sistemas de banco de dados e sistemas operacionais.
+
+ - Ponteiros vs. Cursores: Oferece uma visão prática sobre a diferença entre ponteiros de memória e cursores (índices) para referenciar dados, uma abstração crucial para a manipulação de registros em arquivos.
+
+ - Manipulação de Arquivos Binários: Solidifica o conhecimento em manipulação de arquivos binários em C++ (fstream), uma habilidade valiosa para qualquer aplicação que precise de performance e controle de baixo nível sobre o armazenamento.
+
+---
+
 ## 👨‍💻 Autores
 Luiz Otávio de Queiroz Lage Silva
 
